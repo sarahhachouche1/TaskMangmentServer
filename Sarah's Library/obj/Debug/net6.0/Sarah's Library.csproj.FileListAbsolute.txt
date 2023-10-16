@@ -1,0 +1,11 @@
+C:\Users\Sarah.Hachouche\source\repos\Assiegnment1\Sarah's Library\bin\Debug\net6.0\Sarah's Library.deps.json
+C:\Users\Sarah.Hachouche\source\repos\Assiegnment1\Sarah's Library\bin\Debug\net6.0\Sarah's Library.dll
+C:\Users\Sarah.Hachouche\source\repos\Assiegnment1\Sarah's Library\bin\Debug\net6.0\Sarah's Library.pdb
+C:\Users\Sarah.Hachouche\source\repos\Assiegnment1\Sarah's Library\obj\Debug\net6.0\Sarah's Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sarah.Hachouche\source\repos\Assiegnment1\Sarah's Library\obj\Debug\net6.0\Sarah's Library.AssemblyInfoInputs.cache
+C:\Users\Sarah.Hachouche\source\repos\Assiegnment1\Sarah's Library\obj\Debug\net6.0\Sarah's Library.AssemblyInfo.cs
+C:\Users\Sarah.Hachouche\source\repos\Assiegnment1\Sarah's Library\obj\Debug\net6.0\Sarah's Library.csproj.CoreCompileInputs.cache
+C:\Users\Sarah.Hachouche\source\repos\Assiegnment1\Sarah's Library\obj\Debug\net6.0\Sarah's Library.dll
+C:\Users\Sarah.Hachouche\source\repos\Assiegnment1\Sarah's Library\obj\Debug\net6.0\refint\Sarah's Library.dll
+C:\Users\Sarah.Hachouche\source\repos\Assiegnment1\Sarah's Library\obj\Debug\net6.0\Sarah's Library.pdb
+C:\Users\Sarah.Hachouche\source\repos\Assiegnment1\Sarah's Library\obj\Debug\net6.0\ref\Sarah's Library.dll
